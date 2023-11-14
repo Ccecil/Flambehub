@@ -14,3 +14,5 @@ Allows attachment of human safety devices such as smoke/flame alarms, E stop but
 -Onboard 5v regulator option via Recom regulator
 
 This device connects in the main DC power line between the PSU and the control board.
+
+Available at: https://www.robosprout.com/product/flambehub/
